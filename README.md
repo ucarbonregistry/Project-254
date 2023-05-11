@@ -1,5 +1,7 @@
 # Project-254
 15 MW BIOMASS PROJECT, AT SHANTI GD ISPAT AND POWER PVT LTD (UCR ID Number: 254)
+
+Shanti G.D. Ispat & Power Private Limited (SGDPL), has set up a 15 MW Biomass based power generation unit at Janjgir Village in Champa District in the state of Chhattisgarh, India. This is a Greenfield project.
 ____________________________
 Prior History: UNFCCC CDM Project Name: Biomass Based Power Project at Raipur
 ___________________
